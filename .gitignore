@@ -1,0 +1,7 @@
+# Scripts locales de desarrollo (no publicar en Cloudflare Pages)
+server.ps1
+start.bat
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
